@@ -1,0 +1,12 @@
+{
+  "name": "s4nctus_bot",
+  "version": "1.5.0",
+  "description": "S4NCTUS_BOT by Neuromancer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "KaijoonZTE",
+  "license": "ISC"
+}
